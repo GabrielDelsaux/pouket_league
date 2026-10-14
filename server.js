@@ -602,4 +602,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { stepCar, makeCar, ballHit, Room, getProfile, rank, pub, DB, rooms, queues, matchmake, CARS };s
+module.exports = { stepCar, makeCar, ballHit, Room, getProfile, rank, pub, DB, rooms, queues, matchmake, CARS };
