@@ -3,6 +3,11 @@
   "version": "3.0.0",
   "description": "Rocket League 3D en ligne (Node.js + WebSocket + Three.js)",
   "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "dependencies": { "three": "0.152.2", "ws": "^8.18.0" }
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "three": "^0.152.2",
+    "ws": "^8.18.0"
+  }
 }
